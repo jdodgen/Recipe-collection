@@ -1,4 +1,4 @@
-# Basic red Salsa
+# Basic Red Salsa
 ## Parts
  - 700 ml chopped tomato, fresh or canned
  - 5 or 6 chopped green onions 
