@@ -3,7 +3,7 @@
  - 700 ml chopped tomato, fresh or canned
  - 5 or 6 chopped green onions 
  - 150 ml can hot green chillies, or fresh
- - 25 sprigs cilantro, chopped
+ - 25 sprigs cilantro, chopped, some stems.
  - 1 teaspoon dried oregano
  - 1 teaspoon salt
  - 1 teaspoon garlic powder
