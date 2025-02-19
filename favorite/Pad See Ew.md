@@ -1,9 +1,11 @@
 # Pad See Ew - Thai Stir Fried Noodles
 ## One of the most popular Thai street foods. 
 
+## hardware
+ - Wok on a hot burner
+ - stir-fry tools
 
-
-## Ingredients
+## Software
 Noodles
  - 200g/7oz dried wide (10mm) rice stick noodles,  
 
@@ -37,7 +39,7 @@ Chinese Broccoli - trim ends, Separate leaves from stems. cut stems into 7.5cm/3
 Sauce - Mix ingredients until sugar dissolves.
 
 Cooking:
-Heat oil: Heat 1 tbsp oil in a very large heavy based skillet or wok over high heat.
+Heat oil: Heat 1 tbs/15ml oil in a very large heavy based skillet or wok over high heat.
 Cook garlic and chicken: 
 	Add garlic, cook 15 seconds. 
 	Add chicken, cook until it mostly changes from pink to white.
@@ -45,7 +47,7 @@ Chinese broccoli STEMS:
 	Add Chinese broccoli stems, cook until chicken is almost cooked through.
 Chinese broccoli LEAVES: 
 	Add Chinese broccoli leaves, cook until just wilted.
-Scramble egg: Push everything to one side, crack egg in and scramble.
+Scramble egg(s): Push everything to one side, crack egg in and scramble.
 
 Remove everything from the wok.
 
