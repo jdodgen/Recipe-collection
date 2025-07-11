@@ -1,9 +1,10 @@
 Mac & Cheese with Orgega chilies. Jimmy's Special
+Built off of Alton Browns mac & cheese
 
 Ingredients
 
     1 pound elbow macaroni
-    6 tablespoons butter
+    6 (3 oz) tablespoons butter
     6 tablespoons flour
     2 tablespoon powdered mustard
     4 cups milk (1 qt)
@@ -12,7 +13,7 @@ Ingredients
     1+ teaspoon paprika
     1 large egg
     12+ ounces sharp cheddar (or other cheese), shredded
-    1 can of mild Orgega whole green chilies 27oz (sliced about 3/4 inch) (optional 3+ 4oz tins of chopped)
+    1 can of mild Orgega (or other) whole green chilies 27oz (sliced about 3/4 inch) (optional tins of chopped)
     1 teaspoon salt
     Fresh pepper
 
@@ -32,7 +33,6 @@ in a pot, melt the butter.
 Whisk in the flour and mustard and Whisk into a light roux. 
 Stir in the milk, onion, bay leaf, and paprika. 
 Simmer for ten minutes and remove the bay leaf.
-add chopped chilies
 Season with salt and pepper
 
 Temper in the egg. Stir in the cheese.
