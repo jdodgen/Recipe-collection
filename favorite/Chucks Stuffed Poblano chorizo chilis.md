@@ -11,7 +11,8 @@ mesurments are all just guidelines
 1 can chicken broth (optional) 
 
 Directions:
-Cook the rice in chicken broth or water. I use a "instant pot"/pressure cooker. One 15oz can broth to 1.5 cups of med brown rice.
+Cook the rice in chicken broth or water. I use a "instant pot"/pressure cooker.
+One 15oz can broth to 1.5 cups of med brown rice with a little water.
 
 Put poblano's in ziplock bag with a little water and microwave on low power ~3 minutes or until soft
 Then let them steam some more in the bag after they come out.
@@ -25,7 +26,8 @@ Stuff the chilies
 
 Place the stem back to plug the hole, "sort of" :)
 
-bake until at least 160F at 375F should be about ~30 minutes
+bake until at least 160F internal at 375F should be done in about ~30 minutes
 
 Serve chilies on a bed of rice.
 ``` 
+
