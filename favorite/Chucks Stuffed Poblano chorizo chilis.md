@@ -8,7 +8,7 @@ mesurments are all just guidelines
 1 stick Chorizo(~1/3 stick per chili, 1/2 for big ones) I use the soy version, less grease  
 8 oz or more Cheese (any cheese will do) I use a mexican blend or queso quesadilla 
 1.5 cups cheap brown rice.
-1 can chicken broth (optional) 
+1 15oz can chicken broth (optional) 
 
 Directions:
 Cook the rice in chicken broth or water. I use a "instant pot"/pressure cooker.
@@ -30,4 +30,5 @@ bake until at least 160F internal at 375F should be done in about ~30 minutes
 
 Serve chilies on a bed of rice.
 ``` 
+
 
