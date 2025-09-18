@@ -17,19 +17,20 @@ One 15oz can broth to 1.5 cups of med brown rice with a little water.
 Put poblano's in ziplock bag with a little water and microwave on low power ~3 minutes or until soft
 Then let them steam some more in the bag after they come out.
 
-Cut out stem from poblano, toward the top, scrape seeds, scrape most of the interior ribs.
-save the stem to plug it back
-
 Mix cheese and the Chorizo in a bowl about 50% Chorizo to 50% cheese.
 
-Stuff the chilies
-
+Cut out stem from poblano, toward the top, scrape seeds, scrape most of the interior ribs.
+save the stem to plug it back. Stuff the chilies
 Place the stem back to plug the hole, "sort of" :)
+OR
+make the pablanos into boats, stem on. stuff and cover with cheese.
+Chop the cut out parts and dress the pablanos
 
 bake until at least 160F internal at 375F should be done in about ~30 minutes
 
 Serve chilies on a bed of rice.
 ``` 
+
 
 
 
