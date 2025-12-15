@@ -12,7 +12,7 @@
 
  -## Process
   - Preheat oven to 350f/180c.
-  - spray down pan with or without the partcment.
+  - spray down pan with or without the parchment.
   - put in a single layer of peanuts
   - very lightly oil spray the peanuts.
   - Bake 10 minutes, remove stir peanuts around
