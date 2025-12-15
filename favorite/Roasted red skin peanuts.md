@@ -10,7 +10,7 @@
  - spray oil
  - fine salt
 
- -## Process
+ ## Process
   - Preheat oven to 350f/180c.
   - spray down pan with or without the partchment.
   - put in a single layer of peanuts
