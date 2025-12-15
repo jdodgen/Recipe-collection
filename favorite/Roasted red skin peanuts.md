@@ -1,11 +1,11 @@
-# Roasted red skin peanuts
+# Roasted Red Skin Peanuts
 
-## hardware
+## Hardware
  - oven
  - baking/sheet pan.
  - partchment (optional)
 
-## consumables
+## Consumables
  - red skin peanuts out of the shell.
  - spray oil
  - fine salt
