@@ -1,4 +1,4 @@
-# Jim's Chili mac
+# Jim's Chili Mac
 ## parts
   - 2 15oz cans of chili with beans use the best.
   - 16oz macaroni
@@ -13,3 +13,4 @@
   - Then pour in to the baking dish
   - cover with cheese 
   - Bake at 350F until 160F in the center, around 40 minutes. 
+
