@@ -17,5 +17,5 @@
   - very lightly oil spray the peanuts.
   - Bake 10 minutes, remove stir peanuts around
   - Bake 10 minutes, remove stir peanuts around
-  - Bake 10 minutes, remove let them cool
+  - Bake 10 minutes (or less), remove let them cool
   - salt and eat.
