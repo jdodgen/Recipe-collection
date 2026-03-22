@@ -1,4 +1,7 @@
 # Just a bunch of good things to eat.
-## I have a large digital collection of recipies these are some of them.
-## My favorites.
+## I have a large digital collection of recipies and these are my favorites.
+I am converting the txt files to md (mark down) as I go.   
+
+How to print an md formatted recipe:       
+Simply select all the text in the readme that you want to print, then print and choose "Only selected text".
 
