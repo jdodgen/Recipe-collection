@@ -1,4 +1,6 @@
 # Basic Red Salsa
+Nick Koler gave me this recipe in the 1970's. I made very few changes. I did metricise and make more unversal. 
+
 ## Parts
  - 700 ml chopped tomato, fresh or canned
  - 5 or 6 chopped green onions 
