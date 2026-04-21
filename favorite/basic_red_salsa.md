@@ -18,7 +18,7 @@ I posted this to a newsgroup back in 1994. After working for a while in the UK a
 to make salsa I discovered that cilantro (fresh corriander) was not sold in
 the large bunches as in SoCal. But was in a small package for fresh herbs.  
 So when I returned home I actualy counted the number of stems/sprigs in my "bunch" of cilantro.
-
+Nice to see my dyslexic "form the can"
 ```
 Basic red Salsa
 
