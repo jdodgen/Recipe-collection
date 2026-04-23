@@ -2,7 +2,7 @@ Mac & Cheese with Orgega chilies. Jimmy's Special
 Built off of Alton Browns mac & cheese 
 
 hardware:
-    Casserole dish, typicly 9"(~23cm) x 13"(~33cm) 
+    Casserole dish, typically 9"(~23cm) x 13"(~33cm) 
     Large enough pot, 4 qt minumum
 
 Ingredients
