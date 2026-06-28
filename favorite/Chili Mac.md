@@ -1,10 +1,10 @@
 # Jim's Chili Mac
 ## parts
-  - 2 15oz cans of chili with beans, use the best.
-  - 16oz macaroni
-  - 8oz or more of cooked spiced hamburger aka "taco meat" (cooked ahead of time, or leftover)
-  - 12oz or more Mexican blend or other cheese.
-  - 9 x 13 inch baking dish.
+  - 2 15oz(400g) cans of chili with beans, use the best.
+  - 16oz(500g) macaroni
+  - 12oz(350g) or more of cooked spiced hamburger aka "taco meat" (cooked ahead of time, or leftover)
+  - 12oz(350g) or more Mexican blend or other cheese.
+  - 9 x 13 inch(24 x 34 cm) baking dish.
   ## process
   - Boil macaroni with a little salt until Al dente.
   - Drain and save in colander.
@@ -13,6 +13,6 @@
   - spray or oil the backing dish
   - Then pour mixture in the baking dish
   - cover with lots of cheese 
-  - Bake at 350F until 160F in the center, around 40 minutes. 
+  - Bake at 350F(180C or Gas Mark 4) until 160F(70c) in the center, around 40 minutes. 
 
 
