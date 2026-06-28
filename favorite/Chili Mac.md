@@ -4,14 +4,15 @@
   - 16oz macaroni
   - 8oz or more of cooked spiced hamburger aka "taco meat" (cooked ahead of time, or leftover)
   - 12oz or more Mexican blend or other cheese.
-  - 9 x 13 inch baking dish, "cooking spray"ed or oil.
+  - 9 x 13 inch baking dish.
   ## process
   - Boil macaroni with a little salt until Al dente.
   - Drain and save in colander.
   - In the same pot heat up the cans of chili mixed with the "taco meat"
   - Now mix in the saved macaroni
-  - Then pour in to the baking dish
-  - cover with cheese 
+  - spray or oil the backing dish
+  - Then pour mixture in the baking dish
+  - cover with lots of cheese 
   - Bake at 350F until 160F in the center, around 40 minutes. 
 
 
